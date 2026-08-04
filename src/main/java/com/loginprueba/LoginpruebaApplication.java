@@ -15,7 +15,7 @@ public class LoginpruebaApplication extends SpringBootServletInitializer{
 	
 	public static void main(String[] args) {
 		SpringApplication.run(LoginpruebaApplication.class, args);
-		System.out.println("Probando Git Hub tesst");
+		System.out.println("Probando Git Hub tesst ttt");
 	}
 
 }
